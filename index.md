@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一起搓火球吧！
 
 You can use the [editor on GitHub](https://github.com/8TICO/fire-magic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
